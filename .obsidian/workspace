@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "305e9547426fa929",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c09bbc46c8a46c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "盖老师专升本/30.状语从句标志词.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6fb247834aa158f",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b714316b1d3a12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb38c5db76616fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f290cb25212fa0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#考点",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02c72ec107ed2f6d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238
+  },
+  "right": {
+    "id": "90be7a7838e55632",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c17c05d234d1c5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93b820166069ea55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "盖老师专升本/30.状语从句标志词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92f78060f1c2149d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "盖老师专升本/30.状语从句标志词.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "680d9dfe6cb57e93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "824205c3511b1014",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "盖老师专升本/30.状语从句标志词.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "97c09bbc46c8a46c",
+  "lastOpenFiles": [
+    "盖老师专升本/29.主语从句.md",
+    "盖老师专升本/28.定语从句which的使用.md",
+    "盖老师专升本/27.定语从句用that，不用which.md",
+    "盖老师专升本/26.定语从句that和which的使用.md",
+    "盖老师专升本/25.同位语从句.md",
+    "盖老师专升本/24.表语从句.md",
+    "盖老师专升本/23.虚拟语气在条件状语从句中的用法(虚拟考点).md",
+    "盖老师专升本/22.as if 和 as though的相关考点(虚拟考点).md",
+    "盖老师专升本/21.其他虚拟考点.md",
+    "盖老师专升本/20.I would rather(that)相关（虚拟考点）.md"
+  ]
+}
